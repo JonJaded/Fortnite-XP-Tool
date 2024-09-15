@@ -5,7 +5,7 @@ Lego Festival/Jam Stage XP has remained the same at 3.5 Hours. [As per iFireMonk
 
 # Aidan's Fortnite XP Tool
 A tool to automate jam mode &amp; Lego Fortnite to gain up to 5 levels each daily (10 Total)<br>
-<br>
+
 # Features:
 
  - Runs When Fortnite is not in focus, so you can use this for on your PC directly
