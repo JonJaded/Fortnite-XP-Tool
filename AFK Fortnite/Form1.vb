@@ -103,7 +103,7 @@ Public Class Form1
                         Else
                             ' Another window is in focus
                             lastKnownTitle = currentTitle
-                            Return False
+                            Return True
                         End If
                     End If
                 End If
