@@ -1,5 +1,3 @@
-## Warning: 
-A user has reported a temporary 24hour ban, i have now updated to make it appear random (between 1 - 2.5 mins jam stage) and less chance of detection, i have NOT seen this ban myself though...
 
 # Aidan's Fortnite XP Tool
 A tool to automate jam mode &amp; Lego Fortnite to gain up to 5 levels each daily (10 Total)<br>
