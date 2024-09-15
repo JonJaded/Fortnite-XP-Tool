@@ -114,7 +114,7 @@ Partial Class Form2
         Me.TextBoxDate.ReadOnly = True
         Me.TextBoxDate.Size = New System.Drawing.Size(180, 21)
         Me.TextBoxDate.TabIndex = 21
-        Me.TextBoxDate.Text = "March 2024"
+        Me.TextBoxDate.Text = "September 2024"
         '
         'TextBoxBy
         '
@@ -124,7 +124,7 @@ Partial Class Form2
         Me.TextBoxBy.ReadOnly = True
         Me.TextBoxBy.Size = New System.Drawing.Size(180, 21)
         Me.TextBoxBy.TabIndex = 20
-        Me.TextBoxBy.Text = "Aidan Macgregor"
+        Me.TextBoxBy.Text = "Aidan Macgregor and JonJaded"
         '
         'TextBoxVersion
         '
@@ -134,7 +134,7 @@ Partial Class Form2
         Me.TextBoxVersion.ReadOnly = True
         Me.TextBoxVersion.Size = New System.Drawing.Size(180, 21)
         Me.TextBoxVersion.TabIndex = 19
-        Me.TextBoxVersion.Text = "1.0.0.3"
+        Me.TextBoxVersion.Text = "1.0.0.4"
         '
         'TextBoxName
         '
